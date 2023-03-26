@@ -1,0 +1,39 @@
+.ChangeColor {
+  display: flex;
+
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#color1 {
+  width: 20rem;
+  height: 20rem;
+  background-color: #add8e6;
+  color: #add8e6;
+  border: #add8e6;
+}
+
+#color2 {
+  width: 20rem;
+  height: 20rem;
+  background-color: #151b54;
+  color: #151b54;
+  border: #151b54;
+}
+
+#color3 {
+  width: 20rem;
+  height: 20rem;
+  background-color: #e3e4fa;
+  color: #e3e4fa;
+  border: #e3e4fa;
+}
+
+#color4 {
+  width: 20rem;
+  height: 20rem;
+  background-color: #ffdab9;
+  color: #ffdab9;
+  border: #ffdab9;
+}
